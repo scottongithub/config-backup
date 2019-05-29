@@ -21,6 +21,7 @@ for backup_dir in $BackupDirs; do
   rdiff-backup -v9 $temp_dir $destination
 # use cp if you don't want to install rdiff-backup
 # cp -rfvp --parents $temp_dir $destination
+done
 
 rm -rf $temp_dir
 
