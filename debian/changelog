@@ -1,0 +1,5 @@
+config-backup (1.0.0-1) unstable; urgency=medium
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- Scott Ellis <wherami@gmail.com>  Sun, 02 Jun 2019 15:54:44 -0400
