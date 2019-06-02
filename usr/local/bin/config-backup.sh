@@ -1,6 +1,6 @@
 #!/bin/bash
 
-. ./config-backup.conf
+. /etc/config-backup.conf
 
 if [[ ! -d $temp_dir ]]; then
     mkdir $temp_dir;
