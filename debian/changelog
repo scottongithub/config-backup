@@ -1,8 +1,8 @@
-config-backup (1.0.1) UNRELEASED; urgency=medium
+config-backup (1.0.1ubuntu1) UNRELEASED; urgency=medium
 
-moved script to /usr/bin  * 
+  * 
 
- -- Scott Ellis <wherami@gmail.com>  Sun, 02 Jun 2019 17:49:20 -0400
+ -- Scott Ellis <wherami@gmail.com>  Sun, 02 Jun 2019 17:50:57 -0400
 
 config-backup (1.0.0-1) unstable; urgency=medium
 
